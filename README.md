@@ -5,6 +5,8 @@
 
 _Modern protocol-side framework implemented based on NTQQ._
 
+> 本仓库是 NapCatQQ 的完整官方历史归档：除上游最终删库的两个提交之外，保留从 `0427f132 docs:init` 到 `72912f29 docs: ending` 的全部 5028 条提交与 761 个 tag，不含任何第三方改动
+
 > 云起兮风生，心向远方兮路未曾至.
 
 </div>
@@ -73,6 +75,8 @@ _Modern protocol-side framework implemented based on NTQQ._
 ---
 ## Ending
 如果感兴趣可以自行Fork，不再提供除版本更新以外内容，直到失效，如果追求稳定性更推荐官方Bot，非常感谢一路陪伴。
+
+本仓库的归档范围、排除内容与核实依据见 [ARCHIVE.md](./ARCHIVE.md)。
 
 ## License
 
